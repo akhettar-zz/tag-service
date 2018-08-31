@@ -1,0 +1,20 @@
+mode: set
+github.com/tag-service/repository/database.go:49.52,56.16 4 1
+github.com/tag-service/repository/database.go:60.2,60.32 1 1
+github.com/tag-service/repository/database.go:64.2,66.16 2 1
+github.com/tag-service/repository/database.go:69.2,70.19 2 0
+github.com/tag-service/repository/database.go:56.16,58.3 1 0
+github.com/tag-service/repository/database.go:60.32,62.3 1 1
+github.com/tag-service/repository/database.go:66.16,67.13 1 0
+github.com/tag-service/repository/database.go:74.91,76.2 1 1
+github.com/tag-service/repository/database.go:79.106,83.2 3 1
+github.com/tag-service/repository/database.go:86.106,90.2 3 1
+github.com/tag-service/repository/database.go:93.92,95.2 1 1
+github.com/tag-service/repository/database.go:98.45,100.2 1 1
+github.com/tag-service/repository/database.go:103.40,105.69 2 1
+github.com/tag-service/repository/database.go:105.69,108.3 2 1
+github.com/tag-service/repository/database.go:112.43,117.20 2 1
+github.com/tag-service/repository/database.go:127.2,127.12 1 1
+github.com/tag-service/repository/database.go:117.20,121.17 2 0
+github.com/tag-service/repository/database.go:125.3,125.36 1 0
+github.com/tag-service/repository/database.go:121.17,123.14 2 0

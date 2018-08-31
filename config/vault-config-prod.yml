@@ -1,0 +1,7 @@
+address: https://vault.prod.astoapp.co.uk
+port: 443
+jwt: /var/run/secrets/kubernetes.io/serviceaccount/token
+role: app-role
+secretpath: secret/app/tag-service/prod
+cafile: /etc/tls/ca.crt.pem
+enabled: true

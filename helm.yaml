@@ -1,0 +1,14 @@
+# This YAML file will hold Helm chart values that apply to all environments
+# Values that do are environment specific will be added via the --set flag
+image:
+  name: projectwave/tag-service
+
+container:
+  allocation:
+    resources:
+      limits:
+        memory: "256M"
+
+extraEnvVars:
+  - name: GIN_MODE
+    value: release
